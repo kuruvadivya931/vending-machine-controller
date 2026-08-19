@@ -1,0 +1,17 @@
+Test 1: Inserting Rs.5 + Rs.10
+Test 2: Inserting Rs.10 + Rs.5
+Test 3: Inserting Rs.10 + Rs.10
+
+Time=0  | Reset=1 | Coin5=0 | Coin10=0 | Dispense=0 | Change=0
+Time=10 | Reset=0 | Coin5=1 | Coin10=0 | Dispense=0 | Change=0
+Time=20 | Reset=0 | Coin5=0 | Coin10=0 | Dispense=0 | Change=0
+Time=25 | Reset=0 | Coin5=0 | Coin10=1 | Dispense=1 | Change=0
+Time=35 | Reset=0 | Coin5=0 | Coin10=0 | Dispense=0 | Change=0
+
+Time=45 | Reset=0 | Coin5=0 | Coin10=1 | Dispense=1 | Change=0
+Time=55 | Reset=0 | Coin5=1 | Coin10=0 | Dispense=1 | Change=0
+Time=65 | Reset=0 | Coin5=0 | Coin10=0 | Dispense=0 | Change=0
+
+Time=75 | Reset=0 | Coin5=0 | Coin10=1 | Dispense=1 | Change=1
+Time=85 | Reset=0 | Coin5=0 | Coin10=1 | Dispense=1 | Change=1
+Time=95 | Reset=0 | Coin5=0 | Coin10=0 | Dispense=0 | Change=0
